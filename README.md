@@ -15,7 +15,7 @@ Ashburn, VA | Interested in AI/ML, Computer Vision, and Systems
 
 ## Tech Stack
 **Languages:** Python, Java, C, C++, JavaScript, SQL  
-**AI/ML:** PyTorch, Scikit-learn, Pandas, NumPy, OpenCV, CUDA  
+**AI/ML:** PyTorch, Scikit-learn, Pandas, NumPy, OpenCV  
 **Web & App:** React, Next.js, Node.js, Streamlit, Tailwind CSS, Django  
 **Tools:** Git, Docker, Linux, Jupyter, Streamlink, FFmpeg, Figma  
 
