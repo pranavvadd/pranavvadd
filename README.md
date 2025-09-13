@@ -8,7 +8,7 @@ Ashburn, VA | Interested in AI/ML, Computer Vision, and Systems
 ## About Me
 - Exploring Machine Learning, Full-Stack Development, and Systems Programming  
 - I see CS as a puzzle — bringing together different pieces (code, people, ideas) into working solutions  
-- Hands-on with PyTorch, React/Next.js, Docker, and OpenCV  
+- Hands-on experience and always eager for more
 - Passionate about teaching & outreach — led the Pendulum Project to bring AI/ML concepts to 200+ rural students  
 
 ---
